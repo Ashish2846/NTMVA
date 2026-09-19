@@ -1,0 +1,7 @@
+node_modules
+dist
+dist-server
+.DS_Store
+server/data/history/*.json
+!server/data/history/.gitkeep
+*.log
